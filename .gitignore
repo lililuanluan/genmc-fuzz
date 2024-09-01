@@ -1,0 +1,10 @@
+debug-luan/out/
+debug-luan/backup/
+debug-luan/out-bak 
+debug-luan/fuzz.txt
+debug-luan/GenMCDriver.cpp
+debug-luan/tmp
+src/*.o
+*.a
+src/.deps
+src/oldgenmc
